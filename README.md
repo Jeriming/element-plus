@@ -106,6 +106,8 @@ a proofreader [![Crowdin](https://badges.crowdin.net/element-plus/localized.svg)
 For now we are only showing English and Chinese for resource reasons, but we are looking forward to translate it into more languages, please go to the link
 above and leave a message if you want to help translating Element Plus into your desired language.
 
+Commit can be update?
+
 ### How to help translating
 
 See how to help translating in [Translating Element Plus](https://element-plus.org/en-US/guide/translation.html).
